@@ -1,3 +1,6 @@
+Based on https://github.com/Arkitektum/GIS.Lib.MetadataCSW
+
+
 This project contains code generated with xsd.exe for the ISO-19139 Metadata standard, together with the OGC Catalogue Service (CSW) standard.
 These two standards together makes it possible to exchange geospatial metadata with the CSW-API.
 

@@ -1,17 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net46;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net46;net472;netstandard2.0</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <AssemblyVersion>1.9.100.0</AssemblyVersion>
-    <FileVersion>1.9.100.0</FileVersion>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <Copyright>Copyright © Arkitektum AS 2015</Copyright>
-    <Product>GIS.Lib.MetadataCSW</Product>
-    <Company>Arkitektum AS</Company>
+    <Product>OGC.CSW.MetadataLib</Product>
     <Version>1.9.100</Version>
     <Description>XML serialization library for GIS systems using ISO-19139 and OGC CSW standards.</Description>
-    <PackageProjectUrl>https://github.com/Arkitektum/GIS.Lib.MetadataCSW</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/jorgeka/GIS.Lib.MetadataCSW</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jorgeka/GIS.CSW.MetadataLib</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jorgeka/GIS.CSW.MetadataLib</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
   </PropertyGroup>
   <ItemGroup>
